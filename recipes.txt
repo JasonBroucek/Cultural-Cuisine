@@ -1,0 +1,23 @@
+Pad Thai,Thai,Asia,None,30,Rice noodles- eggs- shrimp- peanuts- bean sprouts,1. Soak rice noodles. 2. Stir-fry with ingredients.,A popular street food in Thailand.
+Pad See Ew, Thai, Asia, None, 30, Rice noodles - soy sauce - chicken - broccoli, 1. Soak noodles. 2. Stir-fry with ingredients and sauces, A flavorful Thai stir-fry with a savory sauce.
+Spaghetti Carbonara,Italian,Europe,Gluten Free,20,Spaghetti- eggs- cheese- pancetta,1. Cook spaghetti. 2. Mix with eggs and pancetta.,A traditional Italian pasta dish.
+Lasagna, Italian, Europe, None, 60, Lasagna noodles - ground beef - ricotta cheese - marinara sauce, 1. Layer noodles with beef and cheese. 2. Bake in the oven, A classic Italian dish with multiple layers of pasta and rich filling.
+Pizza Margherita,Italian,Europe,None,30,Pizza dough- tomatoes- mozzarella- basil,1. Roll dough. 2. Top with ingredients and bake.,A classic Italian pizza with simple ingredients.
+Pizza Margherita(GF),Italian,Europe,Gluten Free,30,Gluten-free pizza dough- tomatoes- mozzarella- basil,1. Roll dough. 2. Top with ingredients and bake.,A classic Italian pizza with simple ingredients.
+Tacos,Mexican,North America,Vegetarian,15,Tortillas- beans- cheese- lettuce- salsa,1. Assemble ingredients in tortilla.,A staple of Mexican cuisine.
+Quesadilla, Mexican, North America, None, 15, Tortillas - cheese - chicken - salsa, 1. Heat tortilla. 2. Add fillings and fold in half, A quick and easy Mexican dish made with cheese and fillings inside a toasted tortilla.
+Guacamole, Mexican, North America, Vegetarian, 10, Avocado - lime - onion - cilantro - tomato, 1. Mash avocado. 2. Mix with other ingredients, A fresh and tangy Mexican dip.
+Ramen,Japanese,Asia,None,45,Ramen noodles- broth- pork- egg,1. Cook noodles. 2. Add broth and toppings.,A beloved Japanese noodle soup with various toppings.
+Sushi,Japanese,Asia,None,45,Sushi rice- fish- seaweed- soy sauce,1. Prepare rice. 2. Roll fish and rice in seaweed.,A popular Japanese dish with various regional variations.
+Tempura, Japanese, Asia, None, 30, Shrimp - batter - oil, 1. Dip shrimp in batter. 2. Fry in hot oil, A crispy and light Japanese dish of battered, fried seafood or vegetables.
+Falafel,Middle Eastern,Middle East,Vegetarian,40,Chickpeas- parsley- garlic- onion- tahini,1. Blend ingredients into dough. 2. Shape into balls and fry.,A traditional Middle Eastern dish served in pita bread.
+Hummus, Middle Eastern, Middle East, Vegetarian, 20, Chickpeas - tahini - garlic - lemon - olive oil, 1. Blend all ingredients until smooth, A creamy dip often served with pita or veggies in the Middle East.
+Chili,American,North America,None,60,Ground beef- beans- tomatoes- chili powder,1. Brown beef. 2. Simmer all ingredients together.,A comforting American stew often eaten in cold weather.
+Macaroni and Cheese, American, North America, None, 30, Macaroni - cheese - milk - butter, 1. Cook macaroni. 2. Melt cheese with milk and butter to create a sauce, A creamy, cheesy pasta dish that's a classic comfort food.
+Pulled Pork Sandwich, American, North America, None, 120, Pork shoulder - BBQ sauce - buns - coleslaw, 1. Slow cook pork until tender. 2. Shred pork and serve with BBQ sauce on buns, A Southern classic featuring tender pulled pork with tangy BBQ sauce.
+Vegetable Stir Fry,Chinese,Asia,Vegetarian,20,Carrot- broccoli- bell pepper- soy sauce,1. Stir-fry vegetables in a hot pan.,A quick and healthy Chinese dish.
+Kung Pao Chicken, Chinese, Asia, None, 30, Chicken - peanuts - bell peppers - soy sauce - chili peppers, 1. Stir-fry chicken and vegetables. 2. Add peanuts and sauce, A spicy and savory dish with tender chicken and crunchy peanuts.
+Sweet and Sour Pork, Chinese, Asia, None, 40, Pork - bell peppers - pineapple - vinegar - sugar, 1. Fry pork pieces. 2. Stir-fry vegetables and sauce, A popular Chinese dish featuring crispy pork in a tangy, sweet sauce.
+Sauerbraten, German, Europe, None, 180, Beef roast - vinegar - onions - sugar - spices, 1. Marinate beef in vinegar and spices. 2. Slow cook beef in marinade, A traditional German pot roast with a tangy, flavorful sauce.
+Wiener Schnitzel, German, Europe, None, 30, Veal or pork - breadcrumbs - eggs - flour, 1. Coat meat in flour, egg, and breadcrumbs. 2. Fry until golden brown, A classic German dish of breaded and fried meat, typically served with lemon wedges.
+Bratwurst, German, Europe, None, 40, Pork - beef - spices (caraway, garlic) - casing, 1. Mix meat and spices. 2. Stuff into casings and grill or fry, A popular German sausage made with a blend of pork and beef, often served with mustard.
